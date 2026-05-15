@@ -1,0 +1,6 @@
+Caso gere erro no commit
+
+git status
+
+git add .
+
